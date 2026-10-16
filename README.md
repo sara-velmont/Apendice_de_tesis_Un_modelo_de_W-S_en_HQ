@@ -8,7 +8,10 @@ Este repositorio contiene el código fuente, simulación y análisis de datos ut
 
 ---
 
-## 📌 Contenido del repositorio
-- `/src` o scripts principales para la generación de la red / hipergrafo.
-- Archivos de simulación para las métricas del modelo Watts-Strogatz.
-- Scripts para el procesamiento y graficación de resultados.
+##  Contenido del repositorio
+1. Generación de hipergrafos químicos completos de n = 3,...,11 y análisis de diversas métricas como hipergrado, distribución de hipergrado, diámetro, distancia e hiperclustering.
+2. Análisis espectral de HQC, HQ regulares y HQ aleatorios y comparaciones con Entropía de Shannon y Divergencia K-L.
+3. Generación de HQC, HQ regulares y HQ aleatorios.
+4. Exploración del modelo de W-S y necesidad de incorporar el parámetro Q.
+5. Recreación del Experimento de W-S integrando las consideraciones del análisis previo.
+   
